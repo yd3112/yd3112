@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yd3112
 - 👀 I’m interested in C++,Python and MERN stack
 - 🌱 I’m currently learning Node.js with EJS
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on NETFLIX clone
 - 📫 How to reach me pokar.yashusmile@gmail.com
 
 <!---
