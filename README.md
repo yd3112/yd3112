@@ -21,19 +21,19 @@ You can click the Preview link to take a look at your changes.
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#imkrunal-tech">
+      <a href="#yd3112-tech">
         <img src="./images/node-js.png" width="48" height="48" alt="Node.js" />
       </a>
       <br>Node.js
     </td>
     <td align="center" width="96">
-      <a href="#imkrunal-tech">
+      <a href="#yd3112-tech">
         <img src="./images/express.png" width="48" height="48" alt="Express" />
       </a>
       <br>Express
     </td>
     <td align="center" width="96">
-      <a href="#imkrunal-tech">
+      <a href="#yd3112-tech">
         <img src="./images/react.png" width="48" height="48" alt="Reactjs" />
       </a>
       <br>Reactjs
