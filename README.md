@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @yd3112
-- 👀 I’m interested in C++,Python and MERN stack
-- 🌱 I’m currently learning Node.js with Express.js and React.js
-- 💞️ I’m looking to collaborate on Hecktoberfest
-- 📫 How to reach me pokar.yashusmile@gmail.com or +91 6353522837
+<h1 align = "center">Welcome to My Profile </h1>
+<p  align = "center" > I'm Yash Pokar, Fullstack developer from India. </p>
+<hr />
+- 👋 Hi, I’m @yd3112 <br />
+- 👀 I’m interested in C++,Python and MERN stack <br />
+- 🌱 I’m currently learning Node.js with Express.js and React.js <br />
+- 💞️ I’m looking to collaborate on Hecktoberfest <br />
+- 📫 How to reach me pokar.yashusmile@gmail.com or +91 6353522837 <br />
+
 - ### Socials
 
 <p align="left"> <a href="https://www.github.com/yd3112" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/pokar_yash" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/yd-pokar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/20043765/yash-pokar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/yd_pokar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
