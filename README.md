@@ -140,7 +140,7 @@ You can click the Preview link to take a look at your changes.
 
 <a align="center" href="http://www.github.com/yd3112"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yd3112&stroke=64748b&background=ffffff&ring=f97316&fire=f97316&currStreakNum=64748b&currStreakLabel=f97316&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
 
-<a align="center" href="http://www.github.com/yd3112"><img src="https://activity-graph.herokuapp.com/graph?username=yd3112&bg_color=ffffff&color=64748b&line=ef4444&point=64748b&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<!-- <a align="center" href="http://www.github.com/yd3112"><img src="https://activity-graph.herokuapp.com/graph?username=yd3112&bg_color=ffffff&color=64748b&line=ef4444&point=64748b&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
 
 <a align="center" href="https://github.com/yd3112" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yd3112&langs_count=10&title_color=f97316&text_color=64748b&icon_color=ef4444&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </div>
